@@ -56,7 +56,7 @@ And that implies that when we drive the system,
 and look at the response as a function of frequency,
 there is a finite width delta f for the driven system,
 and as we will see in many ways, the damping time and delta f
-are related by Faurier transform.
+are related by Fourier transform.
 
 And we usually characterize oscillators
 by the sharpness of the resonance.
@@ -297,7 +297,7 @@ is the Rydberg constant, which is
 the best known, the most accurately known constant
 in all of physics.
 And the reason is, because it can be directly measured
-by performing spectroscopy in [INAUDIBLE] with highly
+by performing spectroscopy in hydrogen with highly
 specialized lasers.
 OK.
 Of course, the question is, who's
