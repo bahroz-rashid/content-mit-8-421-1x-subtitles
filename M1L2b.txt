@@ -18,12 +18,11 @@ The two extreme examples are well,
 the two best atomic clocks of the build.
 One is, the cesium atom with the fountain clock.
 Well, we'll talk about it later, but some of you
-know that the cesium atom has hyperfine structure in one
-state.
-The electron and nucleus being a parallel in the other state,
-the anchor parallel.
+know that the cesium atom has hyperfine structure. In one
+state the electron and nucleus being a parallel, In the other state
+they are anti parallel.
 And the transition frequency is 10 gigahertz.
-9.0 something but for the middle of this discussion
+9.0 something but for the matter of this discussion
 it's 10 gigahertz.
 And the definition of the second--
 the definition of time , the definition of one second is
@@ -36,13 +35,13 @@ But now with cold atoms, we can achieve much, much longer
 interrogatin times by completely--
 by almost completely eliminating the atomic motion.
 And the current experiment is that we
-have a cloud that is coming to microwaving temperature.
+have a cloud laser cooled to microwaving temperature.
 You launch it into a fountain.
 The cloud goes up and goes down.
-And you integrate it twice.
+And you interogate it twice.
 And the interrogation time is one second.
 And this interrogation time is no longer as in the convention
-atomic clocks, limited by the sum of velocity of the atom.
+atomic clocks, limited by the thermal velocity of the atom.
 It's limited by gravity.
 If you want to increase the time to 10 seconds,
 you need 100 meter tower.
@@ -80,8 +79,7 @@ I mean, here we have a niche of alignment bits of 10
 to the minus 11.
 But we can get an accuracy of a signal, which
 is 10 to the minus 16.
-So a microwave oscillator, which is the microwave coil
-end of a laser, can now be locked to the cesium transition
+So a microwave oscillator, which is the microwave equivalent of a laser, can now be locked to the cesium transition
 with the precision of 10 to the minus 16,
 100,000 times better than the line widths.
 The other example I want to give you
@@ -91,13 +89,13 @@ in "Nature." just a few weeks ago.
 
 Here is a level diagram of atomic strontium.
 And what happens is, there is a very fast transition,
-is to p transition for laser cooling and tracking
+s to p transition for laser cooling and tracking
 and all that.
 but then there is a very, very slow transition
-for p to a triplet state, which is made stable.
+forbidden to a triplet state, which is meta stable.
 And this transition, this-- those states
 have a very long lifetime.
-And therefore, this transition is extremely nimble level.
+And therefore, this transition is extremely narrow.
 So what is state of the art for this strontium clock?
 
 Well, in the experiment, they use an interrogation time.
@@ -112,7 +110,7 @@ and there's something broader.
 This is when they are not actively feeding back
 the magnetic field.
 So they have to do I'm for this fantastic position
-of the critical everything.
+you have to control everything.
 But the blue line is sort of, what we call,
 a sub clock transition.
 It's about one Hertz.
